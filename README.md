@@ -1,6 +1,12 @@
 # 🛳 Arab Cargo
 
  Arab Cargo Platform - Bridging International Shipping with Local Needs
+ 
+ ## 🌐 Live Demo
+
+Check out the live demo of the project here:  
+[Arab-Cargo Live Demo](https://arab-cargo.vercel.app/)
+
 
 ![Screenshot](assets/screenshots/Arab-Cargo1.png)
 
@@ -18,7 +24,7 @@ Screenshots showcasing the website interface or key features:
 
 - **Homepage:**
   ![Homepage Screenshot](assets/screenshots/Arab-Cargo2.png)
-  
+
   ![Homepage Screenshot](assets/screenshots/Arab-Cargo3.png)
 
 - **User Authentication:**
